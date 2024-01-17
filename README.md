@@ -1,4 +1,4 @@
-# restic
+# Hotel
 
 A new Flutter project.
 
